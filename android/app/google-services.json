@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "944558279267",
+    "firebase_url": "https://appunesum-default-rtdb.firebaseio.com",
+    "project_id": "appunesum",
+    "storage_bucket": "appunesum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944558279267:android:2e9507fa2cb97bc8218656",
+        "android_client_info": {
+          "package_name": "com.example.flutterloginmysql"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsyetRbubhBIyBm_4R90q1tbTTIfub4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
